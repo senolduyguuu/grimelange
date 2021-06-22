@@ -1,0 +1,139 @@
+a {
+  text-decoration: none !important;
+}
+
+header {
+  z-index: 99;
+  top: 0;
+  position: sticky;
+  background-color: white;
+}
+
+.top-header {
+  background-color: #e3dccc;
+}
+
+.top-header .top-header-text {
+  align-items: center;
+  color: #c96254;
+  text-align: center;
+}
+
+.navbar {
+  margin-left: 20px;
+}
+
+.navbar .header-img {
+  color: black;
+}
+
+.navbar .nav-header-top {
+  font-size: 20px;
+}
+
+.navbar .nav-header-top .nav-header-top-text {
+  text-align: center;
+}
+
+.navbar .nav-header-top .nav-header-top {
+  margin-left: 80px !important;
+}
+
+.navbar .header-icon {
+  padding: 8px;
+}
+
+.carousel-slider {
+  height: 620px;
+}
+
+.slider-bottom {
+  text-align: center;
+}
+
+.slider-bottom .slider-bottom-icon-text {
+  justify-content: center;
+  background-color: #faf4ea;
+  font-size: 23px;
+  padding: 20px;
+}
+
+.slider-bottom .slider-bottom-icon {
+  display: inline-flex;
+}
+
+.content-btn {
+  margin-top: 50px;
+}
+
+.content-btn .btn {
+  height: 60px;
+  margin: 8px;
+  background-color: black !important;
+}
+
+.content-header {
+  margin-top: 40px !important;
+}
+
+.content {
+  margin-top: 40px !important;
+}
+
+.img-text .content-price {
+  margin-left: 60px !important;
+  margin-top: -40px !important;
+}
+
+.img-text .text-direction {
+  margin-right: 70px !important;
+  text-decoration: line-through;
+  color: #bbb3b3;
+}
+
+.content-slider {
+  margin-top: 50px !important;
+  margin-right: 120px !important;
+}
+
+.content-slider-1 {
+  margin-left: 20px !important;
+  margin-top: 50px !important;
+}
+
+.footer-top {
+  margin-top: 50px !important;
+}
+
+.footer {
+  background-color: #faf4ea;
+  margin-top: 80px !important;
+}
+
+.footer .dark-text {
+  color: black;
+  font-size: 20px;
+}
+
+.footer .top-footer-list {
+  margin-top: 80px !important;
+}
+
+.footer .footer-logo {
+  display: flex !important;
+  flex-direction: row  !important;
+  justify-content: center;
+}
+
+.footer .footer-inclusive {
+  padding: 30px;
+}
+
+.footer .footer-text-bottom {
+  color: black;
+}
+
+.footer-bottom {
+  margin-top: 120px !important;
+}
+/*# sourceMappingURL=styles.css.map */
